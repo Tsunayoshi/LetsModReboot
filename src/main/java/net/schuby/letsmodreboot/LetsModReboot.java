@@ -5,7 +5,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import net.schuby.letsmodreboot.configuration.ConfigurationHandler;
+import net.schuby.letsmodreboot.handler.ConfigurationHandler;
 import net.schuby.letsmodreboot.proxy.IProxy;
 import net.schuby.letsmodreboot.reference.Reference;
 
