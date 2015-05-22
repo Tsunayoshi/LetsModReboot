@@ -10,6 +10,7 @@ import java.io.File;
 public class ConfigurationHandler
 {
     public static Configuration configuration;
+    boolean testValue = false;
 
     public static void init(File configFile)
     {
